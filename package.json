@@ -1,0 +1,20 @@
+{
+    "name": "threejstut",
+    "version": "1.0.0",
+    "description": "",
+    "license": "ISC",
+    "author": "",
+    "type": "commonjs",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "dat.gui": "^0.7.9",
+        "three": "^0.186.0"
+    },
+    "devDependencies": {
+        "@parcel/config-default": "^2.16.4",
+        "@parcel/transformer-glsl": "^2.16.4",
+        "@parcel/transformer-raw": "^2.16.4"
+    }
+}
